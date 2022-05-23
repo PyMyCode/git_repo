@@ -3,3 +3,5 @@ Understanding git and githb
 HI!!
 
 changed
+
+checking out branching
